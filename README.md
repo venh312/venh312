@@ -11,7 +11,15 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaejin-park&show_icons=true&theme=transparent)
 <img src="http://mazandi.herokuapp.com/api?handle=pyjin805&theme=warm"/> -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conf312)](https://github.com/conf312/github-readme-stats)
+<div>
+  <table>
+    <tr>
+      <td align="top" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api?username=conf312&show_icons=true&hide_border=true"> 
+      </td>
+    </tr>
+  </table>
+</div>
                                                                                                                                          
 <!--
 - 🔭 I’m currently working on ...
