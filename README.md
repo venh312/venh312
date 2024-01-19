@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome%20to&desc=Venh%20GitHub!&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fconf312&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ### 🛠 Skill
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=CoffeeScript&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA & Querydsl-6DB33F?style=flat-square&logo=spring&logoColor=white">
 
