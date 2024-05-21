@@ -14,10 +14,15 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=conf312)](https://solved.ac/conf312)&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <img src="https://github.com/venh312/venh312/blob/output/github-contribution-grid-snake.svg"/>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conf312&layout=compact)](https://github.com/conf312/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=conf312&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
--->
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=venh312&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=venh312&show_icons=true&theme=vision-friendly-dark">
+</p>
+
 
 <!--
 - 🔭 I’m currently working on ...
