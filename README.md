@@ -9,10 +9,11 @@
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
 
-
 ### 🌱 About Me
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=conf312)](https://solved.ac/conf312)&nbsp;&nbsp;&nbsp;&nbsp; 
+
+<img src="https://github.com/venh312/venh312/blob/output/github-contribution-grid-snake.svg"/>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conf312&layout=compact)](https://github.com/conf312/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=conf312&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
