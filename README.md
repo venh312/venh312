@@ -13,6 +13,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=conf312)](https://solved.ac/conf312)&nbsp;&nbsp;&nbsp;&nbsp; 
 
+### 📚 Learning History
 <img src="https://github.com/venh312/venh312/blob/output/github-contribution-grid-snake.svg"/>
 
 <p align="center">
