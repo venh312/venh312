@@ -7,7 +7,8 @@
 ## 🛠 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,mysql,redis,docker,jenkins,git,github)](https://skillicons.dev)
 
-## 🌱 About Me
+## 🌱 Algorithms
+### 🌈 [LeetCode](https://leetcode.com/u/gpfm312/)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=conf312)](https://solved.ac/conf312)&nbsp;&nbsp;&nbsp;&nbsp; 
 
