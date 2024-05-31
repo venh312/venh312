@@ -9,8 +9,12 @@
 
 ## 🌱 Algorithms
 ### 🌈 [LeetCode](https://leetcode.com/u/gpfm312/)
+<img src="https://github.com/venh312/venh312/assets/13326651/1ad51d28-b71f-46c7-8cdb-e5901bf4da8f"  width="150" height="150"/>
+
+<!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=conf312)](https://solved.ac/conf312)&nbsp;&nbsp;&nbsp;&nbsp; 
+-->
 
 ## 📚 Learning History
 <img src="https://github.com/venh312/venh312/blob/output/github-contribution-grid-snake.svg"/>
