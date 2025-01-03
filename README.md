@@ -9,7 +9,6 @@
 
 ## 🌱 Algorithms
 ### 🌈 [LeetCode](https://leetcode.com/u/gpfm312/)
-<img src="https://github.com/venh312/venh312/assets/13326651/1ad51d28-b71f-46c7-8cdb-e5901bf4da8f"  width="150" height="150"/>
 <img src="https://github.com/user-attachments/assets/175ca286-9f28-4e04-8f23-3ff33ee5ab6c"  width="150" height="150"/>
 
 <!--
@@ -21,10 +20,12 @@
 <img src="https://github.com/venh312/venh312/blob/output/github-contribution-grid-snake.svg"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+<!--
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=venh312&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
-<p align="center">
+-->
+<p>
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=venh312&show_icons=true&theme=vision-friendly-dark">
 </p>
 
