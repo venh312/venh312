@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fconf312&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## 🛠 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,mysql,redis,docker,jenkins,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,mysql,redis,docker,jenkins,git)](https://skillicons.dev)
 
 ## 🌱 Algorithms
 ### 🌈 [LeetCode](https://leetcode.com/u/gpfm312/)
