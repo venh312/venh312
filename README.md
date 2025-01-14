@@ -25,7 +25,7 @@
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=venh312&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 -->
-<p>
+<p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=venh312&show_icons=true&theme=vision-friendly-dark">
 </p>
 
