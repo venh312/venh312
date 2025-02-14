@@ -19,16 +19,15 @@
 ## 📚 Learning History
 <img src="https://github.com/venh312/venh312/blob/output/github-contribution-grid-snake.svg"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 <!--
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=venh312&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
--->
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=venh312&show_icons=true&theme=vision-friendly-dark">
 </p>
-
+-->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
