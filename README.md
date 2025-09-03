@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,mysql,redis,docker,jenkins,git)](https://skillicons.dev)
 
 ## 🌱 Algorithms
-### 🌈 [LeetCode](https://leetcode.com/u/gpfm312/)
+- [LeetCode](https://leetcode.com/u/gpfm312/)
 
 <!--
 [![Solved.ac
