@@ -7,7 +7,6 @@
 
 ## 🌱 Algorithms
 ### 🌈 [LeetCode](https://leetcode.com/u/gpfm312/)
-<img src="https://github.com/user-attachments/assets/175ca286-9f28-4e04-8f23-3ff33ee5ab6c"  width="150" height="150"/>
 
 <!--
 [![Solved.ac
